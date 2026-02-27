@@ -20,8 +20,8 @@ Azure Engineer with hands-on experience in cloud infrastructure, automation, and
 • Collaborated with development and support teams  
 ---
 ### OS & Scripting
-- Linux
-- Bash scripting
+🐧 Linux  
+📜 Shell Scripting  
 ---
 ### DevOps Tools
 🔧 Jenkins  
