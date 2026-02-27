@@ -12,6 +12,7 @@ Azure Engineer with hands-on experience in cloud infrastructure, automation, and
 
 ### Product Efficiency Engineer Intern — Maybank
 📍 ITPL Tech Park  
+
 • Worked with JUnit for testing Java applications  
 • Used MySQL for database operations and queries  
 • Assisted in improving application efficiency and performance  
