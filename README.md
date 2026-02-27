@@ -4,7 +4,7 @@
 Azure Engineer with hands-on experience in cloud infrastructure, automation, and CI/CD pipelines. Passionate about implementing DevOps practices to improve deployment efficiency, scalability, and reliability.
 ---
 ## 💼 Current Role
-☁️ Azure Engineer @ Cloud4c
+☁️ Azure Engineer @ Cloud4c  
 🔧 Working on cloud infrastructure, monitoring, and troubleshooting  
 🚀 Actively building skills in DevOps tools and automation 
 ---
