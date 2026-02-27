@@ -32,4 +32,6 @@ Azure Engineer with hands-on experience in cloud infrastructure, automation, and
 📦 Nexus  
 🔍 SonarQube
 ---
-
+## 🎯 Career Objective
+Transitioning into a full-time DevOps Engineer role with strong expertise in Azure and modern DevOps tools.
+---
