@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Varcoder-123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/Varcoder-123/Java-3-tier-Application)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Varcoder-123&icon=0&color=0)](https://visitcount.itsvg.in)
