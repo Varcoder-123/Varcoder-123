@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github.com/Varcoder-123/Java-3-tier-Application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varcoder-123&repo=Java-3-tier-Application)](https://github.com/Varcoder-123/Java-3-tier-Application)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Varcoder-123&icon=0&color=0)](https://visitcount.itsvg.in)
