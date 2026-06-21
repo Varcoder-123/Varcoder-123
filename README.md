@@ -14,7 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varcoder-123&repo=Java-3-tier-Application&theme=dark)](https://github.com/Varcoder-123/Java-3-tier-Application)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
